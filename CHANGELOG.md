@@ -14,6 +14,7 @@ the stable extension will have the latest stable version of PSReadLine and the P
 
 ## v2020.6.1-preview
 ### Monday, June 08, 2020
+
 #### [vscode-PowerShell](https://github.com/PowerShell/vscode-PowerShell)
 
 - 👷 ✨ [vscode-powershell #2740](https://github.com/PowerShell/vscode-powershell/pull/2740) -
