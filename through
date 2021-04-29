@@ -2680,5 +2680,6 @@ Initial release with the following features:
 - IntelliSense for cmdlets and more
 - Rule-based analysis provided by PowerShell Script Analyzer
 - Go to Definition of cmdlets and variables
+- Find References of cmdlets and variables
 - Document and workspace symbol discovery
 - Local script debugging and basic interactive console support
